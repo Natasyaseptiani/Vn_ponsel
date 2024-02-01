@@ -1,0 +1,118 @@
+[12-Nov-2023 17:38:18 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/vnponsel/public_html/admin/koneksi.php:7
+Stack trace:
+#0 /home/vnponsel/public_html/admin/api.php(2): include()
+#1 {main}
+  thrown in /home/vnponsel/public_html/admin/koneksi.php on line 7
+[12-Nov-2023 17:38:20 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/vnponsel/public_html/admin/koneksi.php:7
+Stack trace:
+#0 /home/vnponsel/public_html/admin/api.php(2): include()
+#1 {main}
+  thrown in /home/vnponsel/public_html/admin/koneksi.php on line 7
+[29-Nov-2023 17:55:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/vnponsel/public_html/admin/api.php:33
+Stack trace:
+#0 /home/vnponsel/public_html/admin/api.php(33): mysqli->query()
+#1 {main}
+  thrown in /home/vnponsel/public_html/admin/api.php on line 33
+[29-Nov-2023 17:56:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/vnponsel/public_html/admin/api.php:33
+Stack trace:
+#0 /home/vnponsel/public_html/admin/api.php(33): mysqli->query()
+#1 {main}
+  thrown in /home/vnponsel/public_html/admin/api.php on line 33
+[29-Nov-2023 17:56:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/vnponsel/public_html/admin/api.php:33
+Stack trace:
+#0 /home/vnponsel/public_html/admin/api.php(33): mysqli->query()
+#1 {main}
+  thrown in /home/vnponsel/public_html/admin/api.php on line 33
+[29-Nov-2023 17:57:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/vnponsel/public_html/admin/api.php:33
+Stack trace:
+#0 /home/vnponsel/public_html/admin/api.php(33): mysqli->query()
+#1 {main}
+  thrown in /home/vnponsel/public_html/admin/api.php on line 33
+[29-Nov-2023 17:57:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/vnponsel/public_html/admin/api.php:33
+Stack trace:
+#0 /home/vnponsel/public_html/admin/api.php(33): mysqli->query()
+#1 {main}
+  thrown in /home/vnponsel/public_html/admin/api.php on line 33
+[29-Nov-2023 17:57:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/vnponsel/public_html/admin/api.php:33
+Stack trace:
+#0 /home/vnponsel/public_html/admin/api.php(33): mysqli->query()
+#1 {main}
+  thrown in /home/vnponsel/public_html/admin/api.php on line 33
+[01-Dec-2023 07:24:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Data too long for column 'url_gambar' at row 1 in /home/vnponsel/public_html/admin/api.php:79
+Stack trace:
+#0 /home/vnponsel/public_html/admin/api.php(79): mysqli->query()
+#1 {main}
+  thrown in /home/vnponsel/public_html/admin/api.php on line 79
+[01-Dec-2023 07:25:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Data too long for column 'url_gambar' at row 1 in /home/vnponsel/public_html/admin/api.php:79
+Stack trace:
+#0 /home/vnponsel/public_html/admin/api.php(79): mysqli->query()
+#1 {main}
+  thrown in /home/vnponsel/public_html/admin/api.php on line 79
+[01-Dec-2023 07:26:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Out of range value for column 'harga_produk' at row 1 in /home/vnponsel/public_html/admin/api.php:79
+Stack trace:
+#0 /home/vnponsel/public_html/admin/api.php(79): mysqli->query()
+#1 {main}
+  thrown in /home/vnponsel/public_html/admin/api.php on line 79
+[01-Dec-2023 07:27:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Data too long for column 'url_gambar' at row 1 in /home/vnponsel/public_html/admin/api.php:79
+Stack trace:
+#0 /home/vnponsel/public_html/admin/api.php(79): mysqli->query()
+#1 {main}
+  thrown in /home/vnponsel/public_html/admin/api.php on line 79
+[01-Dec-2023 07:44:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '3in
+
+Lipatan : 120
+
+-Garansi 1 BULAN
+
+-HARGA TERMURAH
+
+-GARANSI TOKO
+
+' at line 14 in /home/vnponsel/public_html/admin/api.php:79
+Stack trace:
+#0 /home/vnponsel/public_html/admin/api.php(79): mysqli->query()
+#1 {main}
+  thrown in /home/vnponsel/public_html/admin/api.php on line 79
+[01-Dec-2023 07:45:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '3in
+
+Lipatan : 120
+
+-Garansi 1 BULAN
+
+-HARGA TERMURAH
+
+-GARANSI TOKO
+
+' at line 14 in /home/vnponsel/public_html/admin/api.php:79
+Stack trace:
+#0 /home/vnponsel/public_html/admin/api.php(79): mysqli->query()
+#1 {main}
+  thrown in /home/vnponsel/public_html/admin/api.php on line 79
+[01-Dec-2023 07:45:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '3in
+
+Lipatan : 120
+
+-Garansi 1 BULAN
+
+-HARGA TERMURAH
+
+-GARANSI TOKO
+
+' at line 14 in /home/vnponsel/public_html/admin/api.php:79
+Stack trace:
+#0 /home/vnponsel/public_html/admin/api.php(79): mysqli->query()
+#1 {main}
+  thrown in /home/vnponsel/public_html/admin/api.php on line 79
+[09-Dec-2023 15:00:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Out of range value for column 'harga_produk' at row 1 in /home/vnponsel/public_html/admin/api.php:79
+Stack trace:
+#0 /home/vnponsel/public_html/admin/api.php(79): mysqli->query()
+#1 {main}
+  thrown in /home/vnponsel/public_html/admin/api.php on line 79
+[09-Dec-2023 15:01:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Out of range value for column 'harga_produk' at row 1 in /home/vnponsel/public_html/admin/api.php:79
+Stack trace:
+#0 /home/vnponsel/public_html/admin/api.php(79): mysqli->query()
+#1 {main}
+  thrown in /home/vnponsel/public_html/admin/api.php on line 79
+[09-Dec-2023 15:01:22 UTC] PHP Warning:  Undefined variable $api_key in /home/vnponsel/public_html/admin/dashboard.php on line 72
+[09-Dec-2023 15:01:22 UTC] PHP Warning:  Undefined variable $api_key in /home/vnponsel/public_html/admin/dashboard.php on line 119
+[09-Dec-2023 15:03:09 UTC] PHP Warning:  Undefined variable $api_key in /home/vnponsel/public_html/admin/dashboard.php on line 120
